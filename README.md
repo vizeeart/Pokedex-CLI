@@ -41,6 +41,11 @@
   This is the cli version of the pokedex
 </p>
 
+## Feature: 
+1. Search by name 
+2. Search by number 
+3. Show last viewed pokemon 
+4. Pokemon Comparison
 
 # Installation Package
 <details open>
